@@ -1,0 +1,31 @@
+_repo: Up-from-Methodism_73085
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Asbury, Herbert
+    birthdate: 1891
+    deathdate: 1963
+    gutenberg_agent_id: '56895'
+    url: http://www.gutenberg.org/2009/agents/56895
+    wikipedia: https://en.wikipedia.org/wiki/Herbert_Asbury
+description: ''
+gutenberg_issued: '2024-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73085'
+language: en
+pgterms:marc904: https://archive.org/details/upfrommethodism0000asbu/page/n7/mode/2up
+pgterms:marc905: 20231205164314asbury
+pgterms:marc906: '1926'
+pgterms:marc907: us
+production_note: Gísli Valgeirsson, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bAlbert A. Knopf, Inc., $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Up from Methodism
+url: http://www.gutenberg.org/ebooks/73085
